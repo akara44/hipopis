@@ -1,2 +1,2 @@
 # hipopis
-# Hipotenüs Hesaplaya Basit Bir Uygulama
+# Hipotenüs Hesaplayan Basit Bir Uygulama
