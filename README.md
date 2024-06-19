@@ -1,2 +1,2 @@
 # hipopis
-# Hipotenüs Hesaplayan Basit Bir Uygulama.
+# A Simple Application to Calculate Hypotenuse.
